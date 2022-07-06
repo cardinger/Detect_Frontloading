@@ -17,4 +17,3 @@ Detect_Frontloading_Demo.m		% This script will prompt the user to choose one of 
 					% Then, data from subjects in the chosen example are categorized as frontloaders, non-frontloaders, or inconclusive results.
 					% Results are saved within the folder of the chosen example as both graphs and a Subject_Number_Summary.mat file. 
 Detect Frontloading.m       		% Code to detect frontloading. Use this with your own data.
-
