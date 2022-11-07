@@ -2,7 +2,7 @@ This package is distributed under the terms of the GNU GPLv3 & Creative Commons 
 
 This repository contains MATLAB code for detecting frontloading, together with demos, as described in:
 
-C. Ardinger, C. C. Lapish, C. L. Czachowski, N. J. Grahame (2022). Front-loading: A drinking pattern which manifests in response to the rewarding effects of alcohol. Alcoholism: Clinical and Experimental Research. DOI: xxxx.
+C. Ardinger, C. C. Lapish, C. L. Czachowski, N. J. Grahame (2022). A critical review of front-loading: A maladaptive drinking pattern driven by alcohol's rewarding effects. DOI: 10.1111/acer.14924.
 
 
 ├─ Code                     		% A folder containing functions that Detect_Frontloading_Demo.m
